@@ -1,0 +1,19 @@
+      
+    .bg {
+      background:#ffc107;
+
+    }
+
+    #home {
+      background: #ffc107;
+      color: white;
+    }
+
+    .bb {
+      margin-top: 5rem;
+      border-bottom: 1px solid #d3d3d3;
+    }
+
+    footer p a{
+      margin: 5px 15px;
+    }
